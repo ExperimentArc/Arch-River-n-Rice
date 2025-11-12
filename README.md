@@ -1,2 +1,3 @@
 # Arch-River-n-Rice
 This is my RiverWM rice, this repo isn't complete yet but I'll upload all my dotfiles soon...
+For now, I only have my Foot terminal config files.
